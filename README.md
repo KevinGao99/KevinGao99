@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KevinGao99
 - 👀 I’m interested in Data Science and Data Analytics
-- 🌱 I’m currently learning Business Analytics and International Economics and Finance in Brandeis International Business School
+- 🌱 I’m currently learning Analytics and International Economics and Finance in Brandeis University
 - 💞️ I’m looking to collaborate on any project about data
 - 📫 How to reach me: [Mail](mailto:kevingao@brandeis.edu); [LinkedIn](https://www.linkedin.com/in/tgao99/)
 
